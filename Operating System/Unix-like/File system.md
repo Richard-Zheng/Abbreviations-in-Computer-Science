@@ -1,12 +1,13 @@
-usr: user
+`usr`: user
 
-lib: library
+`lib`: library
 
-bin: binary
+`bin`: binary
 
-sbin: system binary
+`sbin`: system binary
 
-etc: etcetera 其他
+`etc`: etcetera 其他
 
-man: manual
+`man`: manual
 
+`src`: source
