@@ -11,3 +11,5 @@
 `man`: manual
 
 `src`: source
+
+`dev`: device
